@@ -1,0 +1,6 @@
+Port of Quandl API to the D programming Language (dlang.org)
+API details here: https://www.quandl.com/help/api
+
+This is a trivial project, but perhaps I can save somebody else the hour it took me to write and get it working.
+
+Use at your own risk.
