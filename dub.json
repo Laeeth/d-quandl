@@ -1,0 +1,9 @@
+{
+	"name": "d-quandl",
+	"description": "Quandl API for the D Programming Language.",
+	"authors": ["Laeeth Isharc"],
+	"homepage": "https://github.com/Laeeth/d-quandl",
+	"license": "Boost-1.0",
+	"dependencies": {
+	}
+}
